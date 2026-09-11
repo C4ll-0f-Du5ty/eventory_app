@@ -156,12 +156,12 @@ DATABASES = {
 ALLOWED_HOSTS = [
     'localhost', '127.0.0.1',
     'atc-01017534727.onrender.com',
-    'eventory.allem.dev'
 ]
 CORS_ALLOWED_ORIGINS = [
     'https://eventory.allem.pro',
     'https://atc-01017534727.vercel.app',
     'http://localhost:5173',
+    'https://eventory.allem.dev',
 ]
 
 # CORS_ALLOW_ALL_ORIGINS = True
