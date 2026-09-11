@@ -152,4 +152,4 @@ This project is licensed under the MIT License.
 Developed by **Allem**  
 📧 Email: [allemhamed98@gmail.com](mailto:allemhamed98@gmail.com)  
 🔗 GitHub: [https://github.com/C4ll-0f-Du5ty](https://github.com/C4ll-0f-Du5ty)  
-💼 Portfolio: [https://allem.pro/](https://allem.pro/)
+💼 Portfolio: [https://allem.pro/](https://allem.dev/)
