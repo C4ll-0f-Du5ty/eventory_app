@@ -159,10 +159,10 @@ ALLOWED_HOSTS = [
     'eventory.allem.dev'
 ]
 CORS_ALLOWED_ORIGINS = [
+    'https://eventory.allem.dev',
     'https://eventory.allem.pro',
     'https://atc-01017534727.vercel.app',
     'http://localhost:5173',
-    'https://eventory.allem.dev',
 ]
 
 # CORS_ALLOW_ALL_ORIGINS = True
